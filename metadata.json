@@ -1,0 +1,6 @@
+{
+  "name": "Cup2Eat — 100% Edible Cups",
+  "description": "Revolutionary zero-waste edible cups for hot & cold beverages and desserts. 100% pure veg, crisp waffle wafer, 40+ min heat resistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
